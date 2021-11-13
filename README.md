@@ -1,4 +1,4 @@
-# NFT
+# NFT GitHub
 
 Static NFT metadata/media hosting
 
